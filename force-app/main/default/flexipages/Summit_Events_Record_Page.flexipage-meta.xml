@@ -74,6 +74,11 @@
                 <componentName>force:relatedListSingleContainer</componentName>
             </componentInstance>
         </itemInstances>
+        <itemInstances>
+            <componentInstance>
+                <componentName>emailTemplateSelector</componentName>
+            </componentInstance>
+        </itemInstances>
         <name>Facet-2141c33c-17ea-4121-a235-ddd826300dd8</name>
         <type>Facet</type>
     </flexiPageRegions>
